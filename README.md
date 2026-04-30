@@ -58,7 +58,7 @@ Como parte do curso Artificial Intelligence for Sustainable Projects, é um sist
 *   💼 [LinkedIn](https://www.linkedin.com/in/elian-ramon/)
 *   📧 [E-mail](elianramondesarges@gmail.com)
 
-![Snake animation](https://github.com/elianramon/elianramon/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/elianramon/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
