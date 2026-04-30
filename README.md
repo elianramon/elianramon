@@ -28,12 +28,14 @@ Como parte do curso Artificial Intelligence for Sustainable Projects, é um sist
 
 
 ----
+
+> "Atualizado em 30/04/2026."
+
 ## ⚙ Cursos em Andamento
 1. Insur Minds - IA aplicada a seguros - I2A2
 2. Agentic AI - I2A2
 3. ONE Tech Advanced - Oracle + Alura
-   
-----
+
 
 ## 🛠 Cursos Recentes [2025-2026]
 1. Bootcamp de Machine Learning 2026.1 - Atlântico Avanti
